@@ -15,3 +15,6 @@ lint:
 
 gendiff:
 	poetry run gendiff
+
+help:
+	poetry run gendiff -h
