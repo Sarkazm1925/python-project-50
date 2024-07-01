@@ -1,0 +1,12 @@
+{
+  "host": "utun.ru",
+  "proxy": "255.35.15.80",
+  "next": 28,
+  "peace": "gloal",
+  "kiss": 60,
+  "love": 90,
+  "last": 100,
+  "verbose": false,
+  "timeout": 25,
+  "system": "Windows"
+}

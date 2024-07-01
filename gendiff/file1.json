@@ -1,0 +1,12 @@
+{
+  "host": "tutut.ru",
+  "proxy": "255.35.45.80",
+  "help": "forall.py",
+  "war": "local",
+  "shoot": 34,
+  "next": 67,
+  "last": 100,
+  "verbose": true,
+  "timeout": 15,
+  "system": "Linux"
+}
